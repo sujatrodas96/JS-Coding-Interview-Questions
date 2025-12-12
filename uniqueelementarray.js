@@ -1,4 +1,4 @@
-//Q14. Find unique element from an array
+//Q13. Find unique element from an array
 
 function uniqueArray(arr) {
     const result = [];
